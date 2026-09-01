@@ -20,6 +20,6 @@
 
 本仓库的所有文件完全由人类撰写。
 
-所有的 Markdown 文件均按照 `GitHub Favored Markdown` 标准进行书写。
+所有的 Markdown 文件均按照 `GitHub Flavored Markdown` 标准进行书写。
 
 所有的本仓库的 Markdown 文档均以 CC-BY-NC-SA 4.0 协议进行授权。
